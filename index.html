@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hugo Tirado Rodríguez - Portafolio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="main-header">
+        <nav class="main-nav">
+            <a href="#hero">Inicio</a>
+            <a href="#about">Sobre mí</a>
+            <a href="#projects">Proyectos</a>
+            <a href="#skills">Habilidades</a>
+            <a href="#contact">Contacto</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero" class="hero-section">
+            <div class="hero-content">
+                <img src="https://placehold.co/150x150" alt="Avatar de Hugo Tirado Rodríguez" class="avatar">
+                <h1>Hugo Tirado Rodríguez</h1>
+                <p class="subtitle">Estudiante de CFGM de Sistemas Microinformáticos y Redes, apasionado por la programación, la tecnología, el diseño y la sostenibilidad.</p>
+                <div class="cv-button-container">
+                    <button id="cv-button" class="cta-button">Descargar CV</button>
+                    <div id="cv-dropdown" class="cv-dropdown-menu">
+                        <a href="docs/CV_ES.pdf" download="CV_Hugo_Tirado_ES.pdf">Español</a>
+                        <a href="docs/CV_CA.pdf" download="CV_Hugo_Tirado_CA.pdf">Catalán</a>
+                        <a href="docs/CV_EN.pdf" download="CV_Hugo_Tirado_EN.pdf">Inglés</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="content-section">
+            <h2>Sobre mí</h2>
+            <div class="about-container">
+                <p>
+                    Soy un estudiante entusiasta con una profunda curiosidad por el funcionamiento interno de la tecnología. Mi formación en Sistemas Microinformáticos y Redes me ha dado una base sólida, pero mi verdadera pasión reside en la programación y el diseño de experiencias de usuario intuitivas y elegantes. Mi objetivo profesional es unirme a un equipo innovador en una empresa de vanguardia como Google o Apple, o contribuir a proyectos de gran impacto social y tecnológico como el Centro de Comandamiento Integrado de FGC. Me encanta aprender, enfrentarme a nuevos retos y colaborar en la creación de soluciones que mejoren la vida de las personas.
+                </p>
+                <img src="https://placehold.co/300x400" alt="Foto de Hugo Tirado" class="about-photo">
+            </div>
+        </section>
+
+        <section id="projects" class="content-section">
+            <h2>Proyectos</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <img src="https://via.placeholder.com/400x250/87CEEB/FFFFFF?text=Bus+E17" alt="Proyecto Bus E17">
+                    <h3>Web de Horarios Bus E17</h3>
+                    <p>Una aplicación web para consultar los horarios y paradas de la línea de bus E17. El sistema valida días festivos y horarios no operativos para mostrar siempre información precisa y útil al usuario.</p>
+                    <div class="project-links">
+                        <a href="#" target="_blank">Ver Demo</a>
+                        <a href="#" target="_blank">Código Fuente</a>
+                    </div>
+                </div>
+                <!-- Aquí se pueden añadir más tarjetas de proyectos -->
+            </div>
+        </section>
+
+        <section id="skills" class="content-section">
+            <h2>Habilidades</h2>
+            <div class="skills-container">
+                <div class="skill-category">
+                    <h3>Lenguajes y Tecnologías Web</h3>
+                    <ul>
+                        <li>HTML5</li>
+                        <li>CSS3</li>
+                        <li>JavaScript (ES6+)</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>Sistemas y Redes</h3>
+                    <ul>
+                        <li>Hardware y Software</li>
+                        <li>Mantenimiento de Sistemas</li>
+                        <li>Conocimientos básicos de redes</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="content-section">
+            <h2>Contacto</h2>
+            <p>¿Interesado en colaborar? Envíame un mensaje.</p>
+            <form class="contact-form">
+                <input type="text" name="name" placeholder="Tu Nombre" required>
+                <input type="email" name="email" placeholder="Tu Email" required>
+                <textarea name="message" placeholder="Tu Mensaje" rows="5" required></textarea>
+                <button type="submit" class="cta-button">Enviar Mensaje</button>
+            </form>
+            <div class="social-links">
+                <a href="mailto:hugo.tirado@example.com" aria-label="Email" title="Enviar Email">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                </a>
+                <a href="#" target="_blank" aria-label="LinkedIn" title="Perfil de LinkedIn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+                </a>
+                <a href="#" target="_blank" aria-label="GitHub" title="Perfil de GitHub">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer-bottom">
+        <p>&copy; 2024 Hugo Tirado Rodríguez. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
