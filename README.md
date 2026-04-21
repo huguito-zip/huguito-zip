@@ -15,7 +15,6 @@
 |                         |                                                  |
 |-------------------------|--------------------------------------------------|
 | 🎓 **Currently**        | Studying IT Systems & Networks (CFGM)            |
-| 💡 **Mindset**          | “How does this work?” + “Can I make it better?”  |
 | 📍 **Location**         | Barcelona, Spain                                 |
 | ⚙️ **Focus Areas**      | Networking · Python scripting · Linux basics     |
 
