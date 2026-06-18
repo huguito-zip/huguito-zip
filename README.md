@@ -1,5 +1,4 @@
 <h1 align="center">👋🏼 Hi there, I'm Hugo 👨🏻‍💻</h1>
-<h4 align="center">💻 Curious about systems, automation, Python & how tech works</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/System%20Admin-Windows%20|%20Linux%20|%20macOS-blue?style=for-the-badge&logo=windows&logoColor=white" />
@@ -12,7 +11,6 @@
 
 <div align="center">
 
-|                         |                                                  |
 |-------------------------|--------------------------------------------------|
 | 🎓 **Currently**        | Studying IT Systems & Networks (CFGM)            |
 | 📍 **Location**         | Barcelona, Spain                                 |
