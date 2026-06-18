@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Hugo</h1>
+<h1 align="center">Hi 👋 I'm Hugo Tirado Rodríguez</h1>
 
 <h3 align="center">
 IT Systems • Networks • Automation • Learning by Building
@@ -14,19 +14,15 @@ IT Systems • Networks • Automation • Learning by Building
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=htrhugo&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
 ---
 
 ## About Me
 
-🎓 Recently completed **CFGM – Sistemas Microinformáticos y Redes (SMX)**  
+🎓 Currently studying **CFGM – Sistemas Microinformáticos y Redes (SMX)**  
 💻 Interested in **Systems Administration, Networking and IT Infrastructure**  
 🐍 Learning and building projects with **Python**  
-🛠️ Exploring automation, documentation and technical workflows  
-🌍 Open to learning, collaborating and growing in the IT world  
+🛠️ Exploring automation, documentation and IT workflows  
+🌍 Open to internships, collaborations and continuous learning  
 
 ---
 
@@ -34,19 +30,19 @@ IT Systems • Networks • Automation • Learning by Building
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,apple,python,git,bash,vscode,github" />
+<img src="https://skillicons.dev/icons?i=windows,linux,apple,python,git,bash,vscode,github"/>
 
 </div>
 
-### Areas I enjoy
+### Areas of Interest
 
-- System Administration
-- Networking
-- Automation
-- Scripting
-- Documentation
-- IT Support
-- Infrastructure
+- System Administration  
+- Networking  
+- Python Development  
+- Automation  
+- Infrastructure  
+- IT Support  
+- Documentation  
 
 ---
 
@@ -54,22 +50,10 @@ IT Systems • Networks • Automation • Learning by Building
 
 ```txt
 → Improving Python skills
-→ Building useful IT tools
-→ Learning better infrastructure practices
-→ Growing from Support → Systems → Development
+→ Building useful IT projects
+→ Learning infrastructure and administration
+→ Expanding networking knowledge
 ```
-
----
-
-## Featured Projects
-
-📂 Add your best repositories here:
-
-- 🔹 Cervantes IT Assistant → Internal IT support and automation
-- 🔹 Networking Labs
-- 🔹 Python Utilities
-- 🔹 Infrastructure & Documentation Projects
-
 ---
 
 ## GitHub Stats
@@ -96,10 +80,4 @@ IT Systems • Networks • Automation • Learning by Building
 <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-Always learning. Always building.
 </p>
