@@ -20,7 +20,6 @@ IT Systems • Networks • Automation • Learning by Building
 
 🎓 Currently studying **CFGM – Sistemas Microinformáticos y Redes (SMX)**  
 💻 Interested in **Systems Administration, Networking and IT Infrastructure**  
-🐍 Learning and building projects with **Python**  
 🛠️ Exploring automation, documentation and IT workflows  
 🌍 Open to internships, collaborations and continuous learning  
 
@@ -54,17 +53,6 @@ IT Systems • Networks • Automation • Learning by Building
 → Learning infrastructure and administration
 → Expanding networking knowledge
 ```
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=htrhugo&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrhugo&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 
 ---
 
